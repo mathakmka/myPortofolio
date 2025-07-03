@@ -53,8 +53,9 @@ MyPortofolio is a personal portfolio web application built using **ReactJS**, **
 
 3. Run the app locally:
    
-   npm run dev  
-
+   npm run dev
+   
+---
 🔥 Firebase Setup
 Create a Firebase project
 
@@ -70,7 +71,7 @@ Create a Firebase project
 }
 
 - Replace the Firebase config in /src/firebase.js with your credentials
-
+---
 📧 EmailJS Setup
 1. Create an account at EmailJS
 
@@ -85,7 +86,7 @@ Create a Firebase project
     - Public key
 
 4. Add them to your email form logic
-
+---
 📦 Build and Deploy
 To build:
 
@@ -96,7 +97,7 @@ To deploy:
 - Upload the /dist folder to Netlify or Vercel
 
 - Or connect your GitHub repo for CI/CD deployment
-
+---
 🙋‍♂️ Author
 Mata Khoirul Anwar
 Frontend & Backend Developer
